@@ -1,0 +1,33 @@
+{
+  "snapshotDate": "2026-10-23",
+  "manifestVersion": "1.0.0",
+  "sdkVersion": "1.0.0",
+  "hostRuntimeVersion": "1.0.0",
+  "files": [
+    {
+      "from": "studio-workspace/packages/plugins/manifest.mjs",
+      "to": "compat/manifest.mjs",
+      "sha256": "35a3002daf238d28574cf8575854cee6d7ce2e15320f4d486f804285715aee8f"
+    },
+    {
+      "from": "studio-workspace/packages/plugins/zip-node.mjs",
+      "to": "compat/zip-node.mjs",
+      "sha256": "f6ca4dcd5e44c0aca4e26f41201e3a1fff7e9b52025c94b1eabcc0593a8179c8"
+    },
+    {
+      "from": "studio-workspace/packages/vfx/easyvfx-runtime/project.mjs",
+      "to": "runtime/project.mjs",
+      "sha256": "5b161ccd8cdfb7b0614ee3c1cf73ebe57ecf79cea0479e517a6206451e40cb5d"
+    },
+    {
+      "from": "studio-workspace/packages/vfx/easyvfx-runtime/runtime.mjs",
+      "to": "runtime/runtime.mjs",
+      "sha256": "92a517af7d2b6ac6ff0d740d29098880358d7554b6551a51ebdd470e157018ef"
+    },
+    {
+      "from": "studio-workspace/packages/vfx/easyvfx-runtime/materials.mjs",
+      "to": "runtime/materials.mjs",
+      "sha256": "2f0e58b7f3183e053cc08a7de57c6567dcbd740b7ba45442b683de79cb21659a"
+    }
+  ]
+}

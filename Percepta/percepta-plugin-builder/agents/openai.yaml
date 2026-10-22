@@ -1,0 +1,4 @@
+interface:
+  display_name: "Percepta Plugin Builder"
+  short_description: "Build installable Percepta plugins and native handoffs"
+  default_prompt: "Use $percepta-plugin-builder to turn my plugin idea into a tested ZIP that installs and works in Percepta Studio."

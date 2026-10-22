@@ -1,0 +1,12 @@
+{
+  "format":"percepta.plugin",
+  "manifestVersion":"1.0.0",
+  "id":"example.pulse",
+  "name":"Example Pulse",
+  "version":"0.1.0",
+  "entry":"index.html",
+  "sdkVersion":"1.0.0",
+  "permissions":["storage","project.read","project.write"],
+  "contribution":{"icon":"◆","label":"Example Pulse"},
+  "description":"Independent SDK example with project-scoped drafts and a native effect handoff."
+}

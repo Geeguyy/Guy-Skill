@@ -1,0 +1,5 @@
+[
+  "plugin.json", "index.html", "styles.css", "app.mjs",
+  "sdk.mjs", "state.mjs", "effect.mjs", "NOTICE.txt", "UPSTREAM.json",
+  "runtime/project.mjs", "runtime/runtime.mjs", "runtime/materials.mjs"
+]

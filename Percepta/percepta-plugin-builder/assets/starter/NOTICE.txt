@@ -1,0 +1,10 @@
+Percepta plugin starter, SDK 1.0.0 compatibility snapshot, 2026-10-23.
+
+runtime/ modules are copies of the workspace-authored EasyVFX implementation,
+pinned by UPSTREAM.json. They include no captured Nightcamp code or image assets.
+compat/ contains the inspected Percepta package validators and is build-time only.
+This starter is an integration example, not a plugin idea or a universal UI design.
+
+No separate license grant was present in the Percepta source snapshot. This
+notice does not invent one. Source/asset distribution rights remain with their
+owners; an applicable license should accompany a publicly distributed release.
