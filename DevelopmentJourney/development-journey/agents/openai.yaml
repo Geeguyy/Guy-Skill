@@ -1,0 +1,4 @@
+interface:
+  display_name: "Development Journey"
+  short_description: "Recover project screenshots into a visual story"
+  default_prompt: "Use $development-journey to recover and organize this project’s screenshots into a chronological development story, with highlights and an offline gallery."
